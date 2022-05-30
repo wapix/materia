@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xbd19df0a0c10cc7c34232e59c2335ac28a35f45d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xbd19df0a0c10cc7c34232e59c2335ac28a35f45d",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "MATERIA V1",
+  "SYMBOL": "MATERIA",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true,
+  "WHITELIST": false
+}
